@@ -5,3 +5,4 @@ Difference omparing to https://raw.githubusercontent.com/wiki/FelisCatus/Switchy
 - Use profile names "Proxy" and "AutoSwitch" instead of Chinese;
 - "port":10808 (v2rayN default port)
 - "-startupProfileName":"AutoSwitch"
+- Beautified the format
