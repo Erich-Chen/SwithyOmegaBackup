@@ -6,3 +6,6 @@ Difference omparing to https://raw.githubusercontent.com/wiki/FelisCatus/Switchy
 - "port":10808 (v2rayN default port)
 - "-startupProfileName":"AutoSwitch"
 - Beautified the format
+
+
+Added whitelist mode
