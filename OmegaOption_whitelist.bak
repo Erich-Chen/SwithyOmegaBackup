@@ -1,0 +1,64 @@
+{
+   "-confirmDeletion":true,
+   "-downloadInterval":1440,
+   "-enableQuickSwitch":false,
+   "-monitorWebRequests":true,
+   "-quickSwitchProfiles":[
+
+   ],
+   "-refreshOnProfileChange":true,
+   "-revertProxyChanges":true,
+   "-showExternalProfile":true,
+   "-showInspectMenu":true,
+   "-startupProfileName":"AutoSwitch",
+   "schemaVersion":2,
+   
+   "+Proxy":{
+      "bypassList":[
+         {
+            "conditionType":"BypassCondition",
+            "pattern":"<local>"
+         }
+      ],
+      "color":"#99ccee",
+      "fallbackProxy":{
+         "host":"127.0.0.1",
+         "port":10808,
+         "scheme":"socks5"
+      },
+      "name":"Proxy",
+      "profileType":"FixedProfile",
+      "revision":"171f2a60498"
+   },
+   
+   "+AutoSwitch":{
+      "color":"#99dd99",
+      "defaultProfileName":"__ruleListOf_AutoSwitch",
+      "name":"AutoSwitch",
+      "profileType":"SwitchProfile",
+      "revision":"171f2a5ade8",
+      "rules":[
+         {
+            "condition":{
+               "conditionType":"HostWildcardCondition",
+               "pattern":"raw.githubusercontent.com"
+            },
+            "profileName":"Proxy"
+         }
+      ]
+   },
+
+   "+__ruleListOf_AutoSwitch":{
+      "color":"#99dd99",
+      "defaultProfileName":"Proxy",
+      "format":"Switchy",
+      "lastUpdate":"2020-05-12T02:56:12.538Z",
+      "matchProfileName":"direct",
+      "name":"__ruleListOf_AutoSwitch",
+      "profileType":"RuleListProfile",
+      "revision":"17206cfc6d5",
+      "ruleList":"",
+      "sourceUrl":"https://raw.githubusercontent.com/pluwen/China-Domain-Whitelist/master/white-list.sorl"
+   }
+
+}
