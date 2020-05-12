@@ -24,6 +24,7 @@
 172.30.*.*
 172.31.*.*
 192.168.*.*
+210.23.81.*
 
 ; 药监局网站
 202.96.26.102
@@ -109,7 +110,6 @@
 *.fliggy.com
 *.foundertype.com
 *.fydeos.com
-*.googletagmanager.com
 *.gratisography.com
 *.growingio.com
 *.guokr.com
@@ -119,7 +119,6 @@
 *.houxu.app
 *.huaban.com
 *.iciba.com
-*.icloud.com
 *.ifanr.com
 *.ifeng.com
 *.iguoguo.net
@@ -169,7 +168,6 @@
 *.oppo.com
 *.oschina.net
 *.oursketch.com
-*.outlook.com
 *.panda.tv
 *.panduoduo.net
 *.pc6.com
@@ -188,7 +186,6 @@
 *.sc115.com
 *.shimo.im
 *.sina.com
-*.slack.com
 *.smartisan.com
 *.smzdm.com
 *.sogou.com
@@ -222,7 +219,6 @@
 *.undraw.co
 *.visualhunt.com
 *.vmall.com
-*.vultr.com
 *.wallhaven.cc
 *.wandoujia.com
 *.weather.com
@@ -308,9 +304,6 @@
 
 ; 又拍云
 *.aicdn.com
-
-; Apple
-*.mzstatic.com
 
 ; 360
 *.qhimg.com
