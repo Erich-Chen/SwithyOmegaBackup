@@ -33,6 +33,9 @@
 ; cn域名都不走代理
 *.cn
 
+; internal 不走代理
+*.internal
+
 *.0daydown.com
 *.126.com
 *.126.net
