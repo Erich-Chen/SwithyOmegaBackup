@@ -91,7 +91,6 @@
 *.dangdang.com
 *.ddrk.me
 *.didiglobal.com
-*.digitalocean.com
 *.dingtalk.com
 *.dingtalkapps.com
 *.dji.com
@@ -147,8 +146,6 @@
 *.le.com
 *.leancloud.app
 *.liantu.com
-*.linkedin.com
-*.linode.com
 *.lizhi.fm
 *.lkkdesign.com
 *.lvmama.com
