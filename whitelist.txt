@@ -320,3 +320,7 @@
 
 ; gitee 码云
 *.gitee.com
+
+; 京东
+*.360buyimg.com
+*.jd.com
