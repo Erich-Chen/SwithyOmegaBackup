@@ -35,6 +35,10 @@
 
 ; internal 不走代理
 *.internal
+semcon.com
+semcon.se
+ericsson.com
+ericsson.se
 
 *.0daydown.com
 *.126.com
@@ -324,3 +328,6 @@
 ; 京东
 *.360buyimg.com
 *.jd.com
+
+; chiphell
+*.chiphell.com
