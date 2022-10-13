@@ -35,11 +35,8 @@
 
 ; internal 不走代理
 *.internal
-semcon.com
-semcon.se
-ericsson.com
-ericsson.se
 
+; Others
 *.0daydown.com
 *.126.com
 *.126.net
